@@ -98,5 +98,14 @@ nav a{
     margin: 130px 0px ;
 }
 
+.about-info{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.info-title{
+    text-align: center;
+}
+
 
     
