@@ -67,6 +67,11 @@ nav a{
     
 }
 
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+
 
 
 .banner .picture {
@@ -105,6 +110,10 @@ nav a{
 }
 .info-title{
     text-align: center;
+}
+
+#what-i-didcription{
+    padding: 30px 150px;
 }
 
 
