@@ -140,5 +140,35 @@ main section{
     font-weight: 700px;
 }
 
+.resume-container{
+    display: flex;
+    gap: 50PX;
+}
+
+.resume-item-title{
+    color: ;
+    font-size: 25PX;
+    font-weight: 700;
+    margin-bottom: 10PX;
+}
+
+.resume-item-institute{
+    margin-bottom: 20PX;
+    margin-top: 0PX;
+}
+
+.resume-item-institute, .resume-item-discription{
+   color: #757575; 
+}
+
+.resume-container hr{
+    margin: 30PX;
+}
+
+.Download-Cv{
+    text-align: center;
+    margin-top: 50px;
+}
+
 
     
